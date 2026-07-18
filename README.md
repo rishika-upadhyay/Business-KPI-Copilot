@@ -1,7 +1,6 @@
 # Business KPI Copilot Dashboard
 
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
