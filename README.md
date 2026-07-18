@@ -52,7 +52,7 @@ Business-KPI-Copilot/
 
 ## Dashboard Page 1
 
-![Dashboard Page 1](business dashboard1.png)
+![Dashboard Page 1](business_dashboard1.png)
 
 ### Includes
 - Total Sales
@@ -69,7 +69,7 @@ Business-KPI-Copilot/
 
 ## Dashboard Page 2
 
-![Dashboard Page 2](business dashboard2.png)
+![Dashboard Page 2](business_dashboard2.png)
 
 ### Includes
 - Top 10 States by Sales
