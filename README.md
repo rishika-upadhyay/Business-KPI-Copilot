@@ -6,7 +6,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-Interactive Business KPI Dashboard using Power BI, Python, Excel and Jupyter Notebook for Sales, Profit and Regional Analysis.
+> An interactive Business Intelligence dashboard built using Python, Microsoft Excel, SQL and Power BI for analyzing sales, profit and business performance through dynamic visualizations.
 
 ---
 
